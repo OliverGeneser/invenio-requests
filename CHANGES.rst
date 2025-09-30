@@ -9,6 +9,10 @@
 Changes
 =======
 
+Version v7.2.3 (released 2025-09-30)
+
+- events: Adding component calls to RequestEventsService methods
+
 Version v7.2.2 (released 2025-09-22)
 
 - chore: bump major version of react-overridable
