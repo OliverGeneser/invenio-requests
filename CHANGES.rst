@@ -9,6 +9,12 @@
 Changes
 =======
 
+Version v11.3.0 (released 2026-02-05)
+
+- feat(timeline): deep link for replies
+- feat(timeline): make messages collapsible
+- fix(comment-editor): disable comment button when message is empty
+
 Version v11.2.3 (released 2026-01-16)
 
 - fix(timeline): support showing replies preview for timeline_focused endpoint
