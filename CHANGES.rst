@@ -9,6 +9,10 @@
 Changes
 =======
 
+Version v11.3.1 (released 2026-02-09)
+
+- fix(timeline): defer dataset extraction
+
 Version v11.3.0 (released 2026-02-05)
 
 - feat(timeline): deep link for replies
